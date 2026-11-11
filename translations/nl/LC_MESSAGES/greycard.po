@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: greycard\n"
 "Report-Msgid-Bugs-To: https://github.com/jessolmstead/greycard/issues\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-11-10 20:35+0100\n"
+"PO-Revision-Date: 2026-11-10 21:30+0100\n"
 "Last-Translator: Sanne Bregman <sanne@bregman.email>\n"
 "Language-Team: Dutch <vertaling@vrijschrift.org>\n"
 "Language: nl\n"
@@ -426,7 +426,7 @@ msgstr "Hernoemen..."
 
 #: crates/greycard-slint/ui/panel/assets.slint:293
 msgid "Remove this look..."
-msgstr "Verwijder deze look"
+msgstr "Verwijder deze look..."
 
 #: crates/greycard-slint/ui/panel/assets.slint:304
 msgid "Fit this camera's look..."
@@ -462,12 +462,12 @@ msgstr "Vervang maskers"
 #. Spoken by a screen reader: the kind of a row in the collections list
 #: crates/greycard-slint/ui/panel/collections.slint:26
 msgid "collection"
-msgstr ""
+msgstr "verzameling"
 
 #. Spoken by a screen reader: the kind of a row in the collections list
 #: crates/greycard-slint/ui/panel/collections.slint:26
 msgid "smart collection"
-msgstr ""
+msgstr "slimme verzameling"
 
 #: crates/greycard-slint/ui/panel/collections.slint:127
 msgid "COLLECTIONS"
@@ -476,7 +476,7 @@ msgstr ""
 #. A collection's menu: show it in capture order rather than hand order
 #: crates/greycard-slint/ui/panel/collections.slint:154
 msgid "Capture order"
-msgstr ""
+msgstr "Opname volgorde"
 
 #: crates/greycard-slint/ui/panel/collections.slint:160
 msgid "Forget {n} missing frame"
@@ -988,7 +988,7 @@ msgstr "(bewerkt)"
 
 #: crates/greycard-slint/ui/panel/deliver.slint:285
 msgid "Save as..."
-msgstr "Opslaan als"
+msgstr "Opslaan als..."
 
 #: crates/greycard-slint/ui/panel/deliver.slint:292
 msgid "Delete"
@@ -1600,11 +1600,11 @@ msgstr ""
 
 #: crates/greycard-slint/ui/panel/frame-menu.slint:291
 msgid "Add to collection"
-msgstr ""
+msgstr "Aan verzameling toevoegen"
 
 #: crates/greycard-slint/ui/panel/frame-menu.slint:298
 msgid "New collection..."
-msgstr ""
+msgstr "Nieuwe verzameling..."
 
 #: crates/greycard-slint/ui/panel/frame-menu.slint:304
 msgid "Remove {n} frame from {}"
@@ -1614,15 +1614,15 @@ msgstr[1] ""
 
 #: crates/greycard-slint/ui/panel/frame-menu.slint:305
 msgid "Remove from {}"
-msgstr ""
+msgstr "Verwijder uit {}"
 
 #: crates/greycard-slint/ui/panel/frame-menu.slint:309
 msgid "Remove from queue..."
-msgstr ""
+msgstr "Verwijder uit wachtrij..."
 
 #: crates/greycard-slint/ui/panel/frame-menu.slint:314
 msgid "Reveal in file manager"
-msgstr ""
+msgstr "Toon in bestandsbeheer"
 
 #: crates/greycard-slint/ui/panel/frame-menu.slint:318
 msgid "Export {n} frame..."
@@ -1632,11 +1632,11 @@ msgstr[1] ""
 
 #: crates/greycard-slint/ui/panel/frame-menu.slint:323
 msgid "Edit in..."
-msgstr ""
+msgstr "Bewerk in..."
 
 #: crates/greycard-slint/ui/panel/frame-menu.slint:328
 msgid "Edit in"
-msgstr ""
+msgstr "Bewerk in"
 
 #. Frame menu: {} is Back up or Bring back, then an archive's name
 #: crates/greycard-slint/ui/panel/frame-menu.slint:343
@@ -1687,7 +1687,7 @@ msgstr ""
 #. A tile's word when its picture could not be read
 #: crates/greycard-slint/ui/panel/grid.slint:753
 msgid "Unreadable"
-msgstr ""
+msgstr "Onleesbaar"
 
 #. A tile's word while its picture is made
 #: crates/greycard-slint/ui/panel/grid.slint:767
@@ -1705,29 +1705,29 @@ msgstr ""
 
 #: crates/greycard-slint/ui/panel/history.slint:186
 msgid "Restore {}"
-msgstr ""
+msgstr "Herstel {}"
 
 #: crates/greycard-slint/ui/panel/history.slint:187
 msgid "Restore"
-msgstr ""
+msgstr "Herstel"
 
 #: crates/greycard-slint/ui/panel/history.slint:195
 msgid "Rename {}"
-msgstr ""
+msgstr "Hernoem {}"
 
 #: crates/greycard-slint/ui/panel/history.slint:196
 msgid "Rename"
-msgstr ""
+msgstr "Hernoem"
 
 #. Snapshots: remove the snapshot
 #: crates/greycard-slint/ui/panel/history.slint:209
 msgid "Remove"
-msgstr ""
+msgstr "Verwijder"
 
 #. Snapshots: the list when there are none
 #: crates/greycard-slint/ui/panel/history.slint:222
 msgid "None yet."
-msgstr ""
+msgstr "Nog niets."
 
 #. Snapshots: take a snapshot of the edit as it is
 #: crates/greycard-slint/ui/panel/history.slint:230
@@ -1736,7 +1736,7 @@ msgstr ""
 
 #: crates/greycard-slint/ui/panel/history.slint:248
 msgid "HISTORY"
-msgstr ""
+msgstr "GESCHIEDENIS"
 
 #: crates/greycard-slint/ui/panel/history.slint:330
 msgid "No changes yet."
@@ -1744,7 +1744,7 @@ msgstr ""
 
 #: crates/greycard-slint/ui/panel/import-sheet.slint:105
 msgid "Import"
-msgstr ""
+msgstr "Importeren"
 
 #. Import sheet: copy the files in, or add them where they are
 #: crates/greycard-slint/ui/panel/import-sheet.slint:113
@@ -1754,7 +1754,7 @@ msgstr ""
 #. Import sheet: copy the files in, or add them where they are
 #: crates/greycard-slint/ui/panel/import-sheet.slint:113
 msgid "Copy"
-msgstr ""
+msgstr "Kopieëren"
 
 #: crates/greycard-slint/ui/panel/import-sheet.slint:118
 msgid "Copies are verified; the card is untouched."
@@ -6802,7 +6802,7 @@ msgstr ""
 #. Models list: a model's state
 #: crates/greycard-ui/src/panel/models.rs:234
 msgid "not downloaded"
-msgstr ""
+msgstr "niet gedownload"
 
 #. Models list: a model's state
 #: crates/greycard-ui/src/panel/models.rs:240
@@ -6832,7 +6832,7 @@ msgstr ""
 #. Models list: a model's state
 #: crates/greycard-ui/src/panel/models.rs:271
 msgid "skipped: {}"
-msgstr ""
+msgstr "overgeslagen: {}"
 
 #: crates/greycard-ui/src/panel/models.rs:296
 msgid "Each under its own license, kept beside it in the store."
@@ -6888,12 +6888,12 @@ msgstr ""
 #. The fetch-every-model ask's two buttons
 #: crates/greycard-ui/src/panel/models.rs:668
 msgid "Now"
-msgstr ""
+msgstr "Nu"
 
 #. The fetch-every-model ask's two buttons
 #: crates/greycard-ui/src/panel/models.rs:670
 msgid "As needed"
-msgstr ""
+msgstr "Wanneer nodig"
 
 #: crates/greycard-ui/src/panel/parts.rs:86
 msgid "{label} is not on the People menu"
@@ -7781,7 +7781,7 @@ msgstr ""
 #. The file chooser's filter name for profiles
 #: crates/greycard-ui/src/panel/viewport.rs:1739
 msgid "ICC profiles"
-msgstr ""
+msgstr "ICC profielen"
 
 #: crates/greycard-ui/src/panel/viewport.rs:1910
 msgid "Proof profile"
@@ -7789,7 +7789,7 @@ msgstr ""
 
 #: crates/greycard-ui/src/panel/viewport.rs:1929
 msgid "Monitor profile"
-msgstr ""
+msgstr "Monitor profiel"
 
 #: crates/greycard-ui/src/panel/viewport.rs:2071
 msgid "no fringe there: that color does not depart from its neighbors'"
@@ -7815,16 +7815,16 @@ msgstr ""
 
 #: crates/greycard-ui/src/rejects.rs:178
 msgid "{} (it cannot be read)"
-msgstr ""
+msgstr "{} (kan niet gelezen worden)"
 
 #: crates/greycard-ui/src/rejects.rs:235
 msgid "no file name"
-msgstr ""
+msgstr "geen bestandsnaam"
 
 #: crates/greycard-ui/src/rejects.rs:306 crates/greycard-ui/src/rejects.rs:312
 #: crates/greycard-ui/src/rejects.rs:320
 msgid "{} is in {} already"
-msgstr ""
+msgstr "{} is al in {}"
 
 #: crates/greycard-ui/src/rejects.rs:337
 msgid "{owner} there answers to {} too"
@@ -7865,38 +7865,38 @@ msgstr ""
 #: crates/greycard-ui/src/roots/view.rs:157
 #: crates/greycard-ui/src/roots/view.rs:194
 msgid "the library index could not be read: {e}"
-msgstr ""
+msgstr "de index van de bibliotheek kon niet worden gelezen: {e}"
 
 #: crates/greycard-ui/src/roots/look.rs:85
 #: crates/greycard-ui/src/roots/look.rs:174
 msgid "the library index could not be read"
-msgstr ""
+msgstr "de index van de bibliotheek kon niet worden gelezen"
 
 #. Not "in 3 s": a look still out from before
 #. answers no at once.
 #: crates/greycard-ui/src/roots/look.rs:130
 msgid "{} isn't reachable"
-msgstr ""
+msgstr "{} is niet bereikbaar"
 
 #: crates/greycard-ui/src/roots/look.rs:442
 msgid "no pictures in {}"
-msgstr ""
+msgstr "geen afbeeldingen in {}"
 
 #: crates/greycard-ui/src/roots/look.rs:448
 msgid "{}: not a folder"
-msgstr ""
+msgstr "{}: geen map"
 
 #: crates/greycard-ui/src/roots/mod.rs:751
 msgid "choosing a folder to add to the library..."
-msgstr ""
+msgstr "kies een map om toe te voegen aan de bibliotheek..."
 
 #: crates/greycard-ui/src/roots/mod.rs:752
 msgid "Add a folder to the library"
-msgstr ""
+msgstr "Map toevoegen aan bibliotheek"
 
 #: crates/greycard-ui/src/roots/mod.rs:766
 msgid "nothing added"
-msgstr ""
+msgstr "niets toegevoegd"
 
 #: crates/greycard-ui/src/roots/pane.rs:66
 msgid "No folders in the library yet"
@@ -7905,7 +7905,7 @@ msgstr ""
 #: crates/greycard-ui/src/roots/pane.rs:173
 #: crates/greycard-ui/src/roots/pane.rs:181
 msgid "adding {}..."
-msgstr ""
+msgstr "{} toevoegen..."
 
 #: crates/greycard-ui/src/roots/pane.rs:232
 #: crates/greycard-ui/src/roots/pane.rs:544
@@ -8175,13 +8175,13 @@ msgstr[1] ""
 #: crates/greycard-ui/src/rows.rs:392
 msgid "{n} redo"
 msgid_plural "{n} redos"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Herhaal {n} actie"
+msgstr[1] "Herhaal {n} acties"
 
 #. A pick names its one frame.
 #: crates/greycard-ui/src/rows.rs:401
 msgid "not opened"
-msgstr ""
+msgstr "niet geopend"
 
 #: crates/greycard-ui/src/rows.rs:402
 msgid "the rating key was not applied to it"
@@ -8264,14 +8264,14 @@ msgstr[1] ""
 #: crates/greycard-ui/src/rows.rs:442
 msgid "the undo was not applied to it"
 msgid_plural "the undo was not applied to them"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ongedaan maken niet toegepast"
+msgstr[1] "ongedaan maken niet toegepast"
 
 #: crates/greycard-ui/src/rows.rs:445
 msgid "the redo was not applied to it"
 msgid_plural "the redo was not applied to them"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "herhalen niet toegepast"
+msgstr[1] "herhalen niet toegepast"
 
 #: crates/greycard-ui/src/rows.rs:1111
 msgid "{frame} moved or is gone; {not_applied}"
@@ -8307,32 +8307,32 @@ msgstr ""
 #. Sort menu: the two ways up for capture time and date edited
 #: crates/greycard-ui/src/sort.rs:195
 msgid "Newest first"
-msgstr ""
+msgstr "Nieuwste eerst"
 
 #. Sort menu: the two ways up for capture time and date edited
 #: crates/greycard-ui/src/sort.rs:195
 msgid "Oldest first"
-msgstr ""
+msgstr "Oudste eerst"
 
 #. Sort menu: the two ways up for the name
 #: crates/greycard-ui/src/sort.rs:198
 msgid "A to Z"
-msgstr ""
+msgstr "A naar Z"
 
 #. Sort menu: the two ways up for the name
 #: crates/greycard-ui/src/sort.rs:198
 msgid "Z to A"
-msgstr ""
+msgstr "Z naar A"
 
 #. Sort menu: the two ways up for rating and focus
 #: crates/greycard-ui/src/sort.rs:201
 msgid "Highest first"
-msgstr ""
+msgstr "Hoogste eerst"
 
 #. Sort menu: the two ways up for rating and focus
 #: crates/greycard-ui/src/sort.rs:201
 msgid "Lowest first"
-msgstr ""
+msgstr "Laagste eerst"
 
 #. The sort in the grid header's 'by {}', lower case
 #: crates/greycard-ui/src/sort.rs:210
@@ -8341,52 +8341,52 @@ msgstr ""
 
 #: crates/greycard-ui/src/sort.rs:211
 msgid "capture time"
-msgstr ""
+msgstr "opnametijd"
 
 #: crates/greycard-ui/src/sort.rs:212
 msgid "name"
-msgstr ""
+msgstr "naam"
 
 #: crates/greycard-ui/src/sort.rs:213
 msgid "rating"
-msgstr ""
+msgstr "waardering"
 
 #: crates/greycard-ui/src/sort.rs:214
 msgid "date edited"
-msgstr ""
+msgstr "datum bewerkt"
 
 #: crates/greycard-ui/src/sort.rs:215
 msgid "focus"
-msgstr ""
+msgstr "focus"
 
 #: crates/greycard-ui/src/sort.rs:216
 msgid "oldest first"
-msgstr ""
+msgstr "oudste eerst"
 
 #: crates/greycard-ui/src/sort.rs:217
 msgid "newest first"
-msgstr ""
+msgstr "nieuwste eerst"
 
 #: crates/greycard-ui/src/sort.rs:218
 msgid "lowest first"
-msgstr ""
+msgstr "laagste eerst"
 
 #: crates/greycard-ui/src/sort.rs:219
 msgid "highest first"
-msgstr ""
+msgstr "hoogste eerst"
 
 #. Sort menu: what the frames are sorted by
 #: crates/greycard-ui/src/sort.rs:226
 msgid "Capture time"
-msgstr ""
+msgstr "Opnametijd"
 
 #: crates/greycard-ui/src/sort.rs:229
 msgid "Date edited"
-msgstr ""
+msgstr "Datum bewerkt"
 
 #: crates/greycard-ui/src/sort.rs:230
 msgid "Focus"
-msgstr ""
+msgstr "Focus"
 
 #: crates/greycard-ui/src/sync.rs:1651
 msgid "{n} edit waiting for {name}"
@@ -8410,37 +8410,37 @@ msgstr ""
 
 #: crates/greycard-ui/src/tags.rs:69
 msgid "Rejected"
-msgstr ""
+msgstr "Afgewezen"
 
 #: crates/greycard-ui/src/tags.rs:71
 msgid "No label"
-msgstr ""
+msgstr "Geen label"
 
 #: crates/greycard-ui/src/tags.rs:75
 msgid "Keyword {words}"
 msgid_plural "Keywords {words}"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Sleutelwoord {words}"
+msgstr[1] "Sleutelwoorden {words}"
 
 #: crates/greycard-ui/src/tags.rs:78
 msgid "No keyword {word}"
-msgstr ""
+msgstr "Geen sleutelwoord {word}"
 
 #: crates/greycard-ui/src/tags.rs:79
 msgid "No title"
-msgstr ""
+msgstr "Geen titel"
 
 #: crates/greycard-ui/src/tags.rs:80
 msgid "Titled"
-msgstr ""
+msgstr "Getiteld"
 
 #: crates/greycard-ui/src/tags.rs:81
 msgid "Capture time {}"
-msgstr ""
+msgstr "Opnametijd {}"
 
 #: crates/greycard-ui/src/tags.rs:82
 msgid "Capture time as the camera set it"
-msgstr ""
+msgstr "Opnametijd volgens camera"
 
 #. In 'N frames rated 3 and hidden by the filter'
 #: crates/greycard-ui/src/tags.rs:109
@@ -8449,39 +8449,39 @@ msgstr ""
 
 #: crates/greycard-ui/src/tags.rs:110
 msgid "picked"
-msgstr ""
+msgstr "gekozen"
 
 #: crates/greycard-ui/src/tags.rs:111
 msgid "rejected"
-msgstr ""
+msgstr "afgewezen"
 
 #: crates/greycard-ui/src/tags.rs:113
 msgid "unlabeled"
-msgstr ""
+msgstr "ongelabeld"
 
 #: crates/greycard-ui/src/tags.rs:115
 msgid "labeled {}"
-msgstr ""
+msgstr "gelabeld {}"
 
 #: crates/greycard-ui/src/tags.rs:118
 msgid "tagged {}"
-msgstr ""
+msgstr "getagd {}"
 
 #: crates/greycard-ui/src/tags.rs:119
 msgid "untagged {word}"
-msgstr ""
+msgstr "onttagged {word}"
 
 #: crates/greycard-ui/src/tags.rs:120
 msgid "untitled"
-msgstr ""
+msgstr "naamloos"
 
 #: crates/greycard-ui/src/tags.rs:121
 msgid "titled"
-msgstr ""
+msgstr "getiteld"
 
 #: crates/greycard-ui/src/tags.rs:122
 msgid "moved in time"
-msgstr ""
+msgstr "verplaatst in tijd"
 
 #: crates/greycard-ui/src/tags.rs:126
 msgid ""
@@ -8496,11 +8496,11 @@ msgstr ""
 
 #: crates/greycard-ui/src/tags.rs:185
 msgid "Undo: {}"
-msgstr ""
+msgstr "Ongedaan maken: {}"
 
 #: crates/greycard-ui/src/tags.rs:186
 msgid "Redo: {}"
-msgstr ""
+msgstr "Herhalen: {}"
 
 #: crates/greycard-ui/src/tags.rs:187
 msgid "Undone"
@@ -8522,20 +8522,20 @@ msgstr ""
 
 #: crates/greycard-ui/src/update.rs:293
 msgid "You have the latest version"
-msgstr ""
+msgstr "Je hebt de laatste versie"
 
 #: crates/greycard-ui/src/update.rs:294
 msgid "GitHub returned no release; try again later"
-msgstr ""
+msgstr "GitHub geeft geen uitgave terug; probeer het later opnieuw"
 
 #: crates/greycard-ui/src/update.rs:295
 msgid "Could not reach GitHub"
-msgstr ""
+msgstr "Kon GitHub niet bereiken"
 
 #: crates/greycard-ui/src/update.rs:397
 msgid "Checking..."
-msgstr ""
+msgstr "Controleren..."
 
 #: crates/greycard-ui/src/update.rs:413
 msgid "the release page is open in the browser: {url}"
-msgstr ""
+msgstr "de uitgave pagina is open in de browser: {url}"
